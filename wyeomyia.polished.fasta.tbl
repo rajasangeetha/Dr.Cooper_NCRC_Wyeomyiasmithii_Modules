@@ -1,0 +1,59 @@
+==================================================
+file name: wyeomyia.polished.fasta  
+sequences:         20374
+total length:  932642041 bp  (932625778 bp excl N/X-runs)
+GC level:         38.85 %
+bases masked:  624921558 bp ( 67.01 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements       311807    216999716 bp   23.27 %
+   SINEs:             5905       882104 bp    0.09 %
+   Penelope           9886      4382509 bp    0.47 %
+   LINEs:           245806    179687930 bp   19.27 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex      49471     31571859 bp    3.39 %
+     R1/LOA/Jockey   51131     60593256 bp    6.50 %
+     R2/R4/NeSL        125       214464 bp    0.02 %
+     RTE/Bov-B       73107     41666199 bp    4.47 %
+     L1/CIN4         21047     12201442 bp    1.31 %
+   LTR elements:     60096     36429682 bp    3.91 %
+     BEL/Pao          8686      6574024 bp    0.70 %
+     Ty1/Copia        4481      2345816 bp    0.25 %
+     Gypsy/DIRS1     39828     25121930 bp    2.69 %
+       Retroviral     3807      1293452 bp    0.14 %
+
+DNA transposons     206374     70494359 bp    7.56 %
+   hobo-Activator    40312      9678607 bp    1.04 %
+   Tc1-IS630-Pogo    82683     25568729 bp    2.74 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac           8963      3728788 bp    0.40 %
+   Tourist/Harbinger  5060       651220 bp    0.07 %
+   Other (Mirage,      182        87621 bp    0.01 %
+    P-element, Transib)
+
+Rolling-circles      38895      9582790 bp    1.03 %
+
+Unclassified:       1291710    316311150 bp   33.92 %
+
+Total interspersed repeats:   603805225 bp   64.74 %
+
+
+Small RNA:            1129       958654 bp    0.10 %
+
+Satellites:           3250      1519093 bp    0.16 %
+Simple repeats:      88911      8170138 bp    0.88 %
+Low complexity:      11881       885658 bp    0.09 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "wyeomyia-families.fa"
+FamDB: 

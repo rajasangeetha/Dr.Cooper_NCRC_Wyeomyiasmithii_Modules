@@ -1,0 +1,15 @@
+***** These are the commands executed for repeat Modeler package *****
+***** repeatModelerCommands.txt *****
+***** Date: Mar 22nd to 28th 2022 *****
+
+
+/apps/pkg/repeatmodeler/2.0.2/BuildDatabase -name wyeomyia wyeomyia.fasta
+
+--- output file created wyeomyiaSmall.translation and other files
+
+/apps/pkg/repeatmodeler/2.0.2/RepeatModeler -rscout_dir /scratch/rvijaya1/wyeomyia/ -recon_dir /scratch/rvijaya1/wyeomyia/ -database wyeomyia-pa 20 -LTRStruct >& run.out &
+
+--- output file created wyeomyia-families.fa and wyeomyia-families.stk
+
+
+wyeomyia-families.fa  is used as input for repeatMasker
